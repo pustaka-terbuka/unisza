@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "unisza",
+  "source_name": "Perpustakaan Al-Wathiqu Billah (Universiti Sultan Zainal Abidin)",
+  "source_base_url": "https://library.unisza.edu.my/",
+  "terms_url": "https://library.unisza.edu.my/",
+  "terms_verified_on": "2026-10-18",
+  "harvester_name": "unisza-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-18T18-35-24Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-18T18:37:34.258Z",
+  "finished_at": "2026-10-18T18:37:34.258Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/unisza; contact@pustakaterbuka.org)",
+  "notes": "UniSZA harvest completed. Total: 0 records."
+}
